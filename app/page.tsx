@@ -10,8 +10,8 @@ type SearchParams = {
   }
   
   type Props = {
-    searchParams: SearchParams
-    endcursor: string
+    searchParams: SearchParams;
+    
   }
 
 
