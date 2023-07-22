@@ -8,7 +8,6 @@ export const createProjectMutation = `
 				createdBy {
 					email
 					name
-          githubUrl
 				}
 			}
 		}
