@@ -6,7 +6,7 @@ import Button from "./Button";
 
 type Props = {
     startCursor: string
-    endCursor: string
+    endCursor: string 
     hasPreviousPage: boolean
     hasNextPage: boolean
 }
